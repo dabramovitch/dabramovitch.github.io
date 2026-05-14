@@ -1,15 +1,16 @@
 ---
 layout : default
 ---
+I will be starting a Flatiron Research Fellow position at the Center for Computational Quantum Physics in Fall 2026. 
 
-I'm currently a PhD candidate in Applied Physics at Caltech (supervised by Professor Marco Bernardi). 
+I recently finished my PhD in Applied Physics at Caltech (supervised by Professor Marco Bernardi). 
 
 Previously, I completed my undergraduate degree in Physics at UC Berkeley in 2021. 
 
 # Research Interests 
 
 My main research focus has been on electron-phonon interactions in correlated materials. 
-* I developed methods for electron-phonon scattering and transport in the content of correlated electronic states and applied them to Sr<sub>2</sub>RuO<sub>4</sub> ([Phys. Rev. Materials](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.093801))
+* I developed methods for electron-phonon scattering and transport in the presence of correlated electronic states and applied them to Sr<sub>2</sub>RuO<sub>4</sub> ([Phys. Rev. Materials](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.093801))
 * I investigated the respective roles of electron-electron and electron-phonon interactions in the transport and quasiparticle properties of SrVO<sub>3</sub> ([Phys. Rev. Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.186501))
 * I developed finite difference methods to study the effects of correlation on electron-phonon coupling within DFT+DMFT ([Phys. Rev. B](https://journals.aps.org/prb/abstract/10.1103/467t-z5b2))
 
