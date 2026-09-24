@@ -1,9 +1,9 @@
 ---
 layout : default
 ---
-I will be starting a Flatiron Research Fellow position at the Center for Computational Quantum Physics in Fall 2026. 
+I am a Flatiron Research Fellow at the Center for Computational Quantum Physics (started Fall 2026). 
 
-I recently finished my PhD in Applied Physics at Caltech (supervised by Professor Marco Bernardi). 
+I recently finished my PhD in Applied Physics at Caltech (supervised by Professor Marco Bernardi) where I was a NSF Graduate Research Fellow. 
 
 Previously, I completed my undergraduate degree in Physics at UC Berkeley in 2021. 
 
@@ -22,6 +22,6 @@ For my full publication list, see my [Google Scholar](https://scholar.google.com
 
 # Contact
 
-Please feel free to contact me by email at **dabramovitch@caltech.edu**
+Please feel free to contact me by email at **dabramovitch@flatironinstitute.org**
 
 
